@@ -1,0 +1,4 @@
+1 1 Kafedra101
+1 2 Kafedra102
+2 3 Kafedra201
+2 4 Kafedra202
